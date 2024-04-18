@@ -315,6 +315,7 @@ Hide/Show table of contents
 | 266 | [How do you compare useState and useReducer?](#how-do-you-compare-use-state-and-use-reducer)|
 | 267 | [How does context works using useContext hook?](#how-does-context-works-using-use-context-hook)|
 | 268 | [What are the use cases of useContext hook?](#what-are-the-use-cases-of-use-context-hook)|
+| 269 | [Check question](#what-are-the-use-cases-of-use-context-hook)|
 </details>
 
 ### Table of Contents
